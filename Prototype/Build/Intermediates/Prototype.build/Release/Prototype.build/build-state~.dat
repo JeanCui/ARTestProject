@@ -1,0 +1,192 @@
+TPrototype
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o /Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype normal x86_64
+cGenerateDSYMFile /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052829D5D00000000000000AA
+t1384291677
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C6EA0000000000000044C
+t1382837920
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C6EA000000000000001DB
+t1382837920
+s475
+
+N/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/Prototype.LinkFileList
+c0000000052E94DB50000000000000083
+t1391021493
+s131
+
+N/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o
+t1391021495
+s16056
+
+N/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype
+t1391021495
+s10468
+
+N/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM
+t2
+s0
+
+N/Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp
+c0000000052E94A3D0000000000001124
+t1391020605
+s4388
+
+N/opt/local/lib/libopencv_calib3d.2.4.7.dylib
+c00000000528BFCDD0000000000091988
+t1384905949
+s596360
+
+N/opt/local/lib/libopencv_core.2.4.7.dylib
+c00000000528BFCBD00000000001F90C8
+t1384905917
+s2068680
+
+N/opt/local/lib/libopencv_highgui.2.4.7.dylib
+c00000000528BFCD0000000000004B928
+t1384905936
+s309544
+
+N/opt/local/lib/libopencv_imgproc.2.4.7.dylib
+c00000000528BFCCA00000000001EAFBC
+t1384905930
+s2011068
+
+N/opt/local/lib/libopencv_ml.2.4.7.dylib
+c00000000528BFCC30000000000070060
+t1384905923
+s458848
+
+N/opt/local/lib/libopencv_photo.2.4.7.dylib
+c00000000528BFCCC000000000001D320
+t1384905932
+s119584
+
+N/opt/local/lib/libopencv_video.2.4.7.dylib
+c00000000528BFCCF0000000000048670
+t1384905935
+s296560
+
+CBuild AST from /Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6ff1c4358599b841^f52aca358599b841^---0#1#1#--18"Check dependencies36"C5FBAC03-1EB4-40AD-A635-37886D131E2B-
+
+CCompileC Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o /Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412714293.790455
+e412714295.112146
+r1
+xCompileC
+xBuild/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o
+x/Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp
+d/opt/local/include/opencv2/opencv.hpp
+d/opt/local/include/opencv2/core/core_c.h
+d/opt/local/include/opencv2/core/types_c.h
+d/opt/local/include/opencv2/core/core.hpp
+d/opt/local/include/opencv2/core/version.hpp
+d/opt/local/include/opencv2/core/operations.hpp
+d/opt/local/include/opencv2/core/mat.hpp
+d/opt/local/include/opencv2/flann/miniflann.hpp
+d/opt/local/include/opencv2/flann/defines.h
+d/opt/local/include/opencv2/flann/config.h
+d/opt/local/include/opencv2/imgproc/imgproc_c.h
+d/opt/local/include/opencv2/imgproc/types_c.h
+d/opt/local/include/opencv2/imgproc/imgproc.hpp
+d/opt/local/include/opencv2/photo/photo.hpp
+d/opt/local/include/opencv2/photo/photo_c.h
+d/opt/local/include/opencv2/video/video.hpp
+d/opt/local/include/opencv2/video/tracking.hpp
+d/opt/local/include/opencv2/video/background_segm.hpp
+d/opt/local/include/opencv2/features2d/features2d.hpp
+d/opt/local/include/opencv2/objdetect/objdetect.hpp
+d/opt/local/include/opencv2/calib3d/calib3d.hpp
+d/opt/local/include/opencv2/ml/ml.hpp
+d/opt/local/include/opencv2/highgui/highgui_c.h
+d/opt/local/include/opencv2/highgui/highgui.hpp
+d/opt/local/include/opencv2/contrib/contrib.hpp
+d/opt/local/include/opencv2/contrib/retina.hpp
+d/opt/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp178"CompileC Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o Prototype/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc66fca358599b841^e8dd1c378599b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp0000000000000000^2959"CompileC Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o Prototype/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jincui/Documents/Dev/OSX/Prototype    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Prototype-generated-files.hmap -I/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Prototype-own-target-headers.hmap -I/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Prototype-all-target-headers.hmap -iquote /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Prototype-project-headers.hmap -iquote/opt/local/include -I/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/DerivedSources/x86_64 -I/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/DerivedSources -F/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release -MMD -MT dependencies -MF /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.dia -c /Users/jincui/Documents/Dev/OSX/Prototype/Prototype/main.cpp -o /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o36"5979B323-DCEB-4947-8508-3CADDEDFFF91-
+b0C534871-44B0-4B32-97FF-EBCA84B4ADE6
+
+CGenerateDSYMFile /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype
+s412714295.170093
+e412714295.203522
+r1
+xGenerateDSYMFile
+x/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM
+x/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Generate /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM87"GenerateDSYMFile Build/Products/Release/Prototype.dSYM Build/Products/Release/Prototype639c2b378599b841^651b34378599b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM00346866ddffdf42^395"GenerateDSYMFile Build/Products/Release/Prototype.dSYM Build/Products/Release/Prototype    cd /Users/jincui/Documents/Dev/OSX/Prototype    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype -o /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype.dSYM36"283CCC88-50C4-4C4C-A9C6-39ACD4D164F0-
+b0C534871-44B0-4B32-97FF-EBCA84B4ADE6
+
+CLd /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype normal x86_64
+s412714295.113619
+e412714295.168921
+r1
+xLd
+x/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype
+xnormal
+xx86_64
+d/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/Prototype.LinkFileList
+d/Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/main.o
+d/opt/local/lib/libopencv_calib3d.2.4.7.dylib
+d/opt/local/lib/libopencv_imgproc.2.4.7.dylib
+d/opt/local/lib/libopencv_ml.2.4.7.dylib
+d/opt/local/lib/libopencv_photo.2.4.7.dylib
+d/opt/local/lib/libopencv_video.2.4.7.dylib
+d/opt/local/lib/libopencv_highgui.2.4.7.dylib
+d/opt/local/lib/libopencv_core.2.4.7.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Link /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype49"Ld Build/Products/Release/Prototype normal x86_64662d1d378599b841^9e452b378599b841^---0#0#1#--1126"Ld Build/Products/Release/Prototype normal x86_64    cd /Users/jincui/Documents/Dev/OSX/Prototype    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release -L/opt/local/lib -F/Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release -filelist /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/Prototype.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -lopencv_calib3d.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_ml.2.4.7 -lopencv_photo.2.4.7 -lopencv_video.2.4.7 -lopencv_highgui.2.4.7 -lopencv_core.2.4.7 -Xlinker -dependency_info -Xlinker /Users/jincui/Documents/Dev/OSX/Prototype/Build/Intermediates/Prototype.build/Release/Prototype.build/Objects-normal/x86_64/Prototype_dependency_info.dat -o /Users/jincui/Documents/Dev/OSX/Prototype/Build/Products/Release/Prototype36"66FEF0A1-0B52-4D49-9CA4-BD0AFAFE7644-
+b0C534871-44B0-4B32-97FF-EBCA84B4ADE6
+
